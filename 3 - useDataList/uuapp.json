@@ -1,0 +1,18 @@
+{
+  "product": "uu_example_maing03",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "uu_example_maing03-hi": {},
+  "uu_example_maing03-server": {
+    "devkit": {
+      "development": {
+        "appBoxLocationUri": "----- VALUE REQUIRED -----",
+        "appDeploymentUri": null
+      }
+    }
+  }
+}
